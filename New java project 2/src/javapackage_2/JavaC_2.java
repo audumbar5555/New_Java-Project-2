@@ -4,7 +4,7 @@ public class JavaC_2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("This is Java C2 package");
+		System.out.println("This is 2nd printing statement");
 		
 		
 
