@@ -6,7 +6,7 @@ public class JavaC_2 {
 		
 		System.out.println("This is Java C2 class");
 		
-		System.out.println("This is selenium C2 class");
+		
 
 	}
 
