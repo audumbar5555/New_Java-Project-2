@@ -6,7 +6,7 @@ public class JavaC_2 {
 		
 		System.out.println("This is 1st printing statement");
 		
-		System.out.println("This is 3rd printing statement");
+		System.out.println("This is 2nd printing statement");
 		
 		
 
